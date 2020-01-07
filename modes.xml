@@ -24,17 +24,9 @@
         <file name="tam-eng.autolex.bin"/>
       </program>
 
-      <program name="apertium-transfer -b">
-        <file name="apertium-tam-eng.tam-eng.t1x"/>
-        <file name="tam-eng.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tam-eng.tam-eng.t2x"/>
-        <file name="tam-eng.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tam-eng.tam-eng.t3x"/>
-        <file name="tam-eng.t3x.bin"/>
+
+      <program name="rtx-proc">
+        <file name="tam-eng.rtx.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="tam-eng.autogen.bin"/>
@@ -70,17 +62,9 @@
         <file name="eng-tam.autolex.bin"/>
       </program>
 
-      <program name="apertium-transfer -b">
-        <file name="apertium-tam-eng.eng-tam.t1x"/>
-        <file name="eng-tam.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tam-eng.eng-tam.t2x"/>
-        <file name="eng-tam.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tam-eng.eng-tam.t3x"/>
-        <file name="eng-tam.t3x.bin"/>
+
+      <program name="rtx-proc">
+        <file name="eng-tam.rtx.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="eng-tam.autogen.bin"/>

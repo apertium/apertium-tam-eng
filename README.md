@@ -19,7 +19,6 @@ You will need the following software installed:
 * lttoolbox (>= 3.3.0)
 * apertium (>= 3.3.0)
 * vislcg3 (>= 0.9.9.10297)
-* hfst (>= 3.8.2)
 * apertium-tam
 * apertium-eng
 
@@ -66,12 +65,8 @@ Files and data
 -------------------------------------------------------------------------------
 
 * [`apertium-tam-eng.tam-eng.dix`](apertium-tam-eng.tam-eng.dix) - Bilingual dictionary
-* [`apertium-tam-eng.tam-eng.t1x`](apertium-tam-eng.tam-eng.t1x) - Chunking rules for translating into English
-* [`apertium-tam-eng.eng-tam.t1x`](apertium-tam-eng.eng-tam.t1x) - Chunking rules for translating into Tamil
-* [`apertium-tam-eng.tam-eng.t2x`](apertium-tam-eng.tam-eng.t2x) - Interchunk rules for translating into English
-* [`apertium-tam-eng.eng-tam.t2x`](apertium-tam-eng.eng-tam.t2x) - Interchunk rules for translating into Tamil
-* [`apertium-tam-eng.tam-eng.t3x`](apertium-tam-eng.tam-eng.t3x) - Postchunk rules for translating into English
-* [`apertium-tam-eng.eng-tam.t3x`](apertium-tam-eng.eng-tam.t3x) - Postchunk rules for translating into Tamil
+* [`apertium-tam-eng.tam-eng.rtx`](apertium-tam-eng.tam-eng.rtx) - Structural transfer rules for translating into English
+* [`apertium-tam-eng.eng-tam.rtx`](apertium-tam-eng.eng-tam.rtx) - Structural transfer rules for translating into Tamil
 * [`apertium-tam-eng.tam-eng.lrx`](apertium-tam-eng.tam-eng.lrx) - Lexical selection rules for translating into English
 * [`apertium-tam-eng.eng-tam.lrx`](apertium-tam-eng.eng-tam.lrx) - Lexical selection rules for translating into Tamil
 * [`modes.xml`](modes.xml) - Translation modes
