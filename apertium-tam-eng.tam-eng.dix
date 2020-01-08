@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet>அஆஇஈஉஊஎஏஐஒஓஔஃகஙசஞடணதநபமயரலவழளறன ா ி ீ ு ூ ெ ே ை ொ ோ ௌ ௗ  ்aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
 
   <sdefs>
     <!-- Define symbol definitions within <sdef> here. -->
@@ -83,6 +83,7 @@
 
     <sdef n="num"             c="Numeral"/>
     <sdef n="sent"            c="Sentence end"/>
+    <sdef n="FD" 	            c="Function to be determined"/> 
     <sdef n="cm"              c="Comma"/>
     <sdef n="apos"            c="Apostrophe"/>
     <sdef n="guio"            c="Dash"/>
@@ -98,16 +99,15 @@
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
 
-    <!-- SECTION: Pronouns -->
+      <!-- SECTION: Pronouns -->
 
-    <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/></l><r>I<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
-    <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/></l><r>you<s n="prn"/><s n="FD"/><s n="p2"/></r></p></e>
-    <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>he<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
-    <e><p><l>அவர்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>he<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
-    <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>she<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
-    <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>they<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
-    <e><p><l>அது<s n="prn"/><s n="pers"/><s n="p3"/></l><r>it<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
-
+      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/></l><r>I<s n="prn"/><s n="FD"/><s n="p1"/></r></p></e>
+      <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/></l><r>you<s n="prn"/><s n="FD"/><s n="p2"/></r></p></e>
+      <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>he<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
+      <e><p><l>அவர்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>he<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
+      <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>she<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
+      <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/></l><r>they<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
+      <e><p><l>அது<s n="prn"/><s n="pers"/><s n="p3"/></l><r>it<s n="prn"/><s n="FD"/><s n="p3"/></r></p></e>
 
       <!-- SECTION: Numerals -->
 
@@ -122,7 +122,6 @@
       <e><p><l>எட்டு<s n="num"/></l><r>eight<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>ஒன்பது<s n="num"/></l><r>nine<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>பத்து<s n="num"/></l><r>ten<s n="num"/><s n="sp"/></r></p></e>
-
       <e><p><l>பதினொன்று<s n="num"/></l><r>eleven<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>பன்னிரண்டு<s n="num"/></l><r>twelve<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>பதின்மூன்று<s n="num"/></l><r>thirteen<s n="num"/><s n="sp"/></r></p></e>
@@ -132,9 +131,7 @@
       <e><p><l>பதினேழு<s n="num"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>பதினெட்டு<s n="num"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
       <e><p><l>பத்தொன்பது<s n="num"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
-
       <e><p><l>இருபது<s n="num"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
-
 
       <!-- SECTION: Nouns -->
 
@@ -195,7 +192,6 @@
       <e><p><l>வீடு<s n="n"/></l><r>house<s n="n"/></r></p></e>
       <e><p><l>வெண்பனி<s n="n"/></l><r>snow<s n="n"/></r></p></e>
       <e><p><l>வைத்தியர்<s n="n"/></l><r>doctor<s n="n"/></r></p></e>
-
 
       <!-- SECTION: Adjectives -->
 
@@ -273,7 +269,6 @@
       <e><p><l>வெளி<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
       <e><p><l>வேகமான<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
       
-
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
