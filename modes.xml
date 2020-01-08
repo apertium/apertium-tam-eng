@@ -47,11 +47,8 @@
       </program>
 
 
-      <program name="cg-proc -w">
+      <program name="cg-proc -w -1 -n">
         <file name="eng-tam.rlx.bin"/>
-      </program>
-      <program name="apertium-tagger -g $2">
-        <file name="eng-tam.prob"/>
       </program>
 
       <program name="apertium-pretransfer"/>
@@ -76,4 +73,3 @@
     </pipeline>
   </mode>
 </modes>
-
