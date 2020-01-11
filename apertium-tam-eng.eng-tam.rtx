@@ -18,7 +18,7 @@ prn: _.prn_type;
 prn_itg: _.prn_type.gender.number;
 prn_def: _.prn_type.person.gender.number;
 adj: _;
-adv: _;
+adv: _.prn_type;
 vblex: _.tense.person.gender.number;
 vbser: _.tense.person.number;
 det_default: _.det_type;
@@ -54,6 +54,8 @@ NP -> n { 1 } ;
 NP -> prn { 1 } ;
 VP -> vblex adv { 2 _ 1 } |
       vblex NP { 2 _ 1 };
+VP -> NP vbser { 1 } |
+      adv vbser { 1 } ;
 S -> prn vblex { 1 _ 2[gender=1.gender, number=1.number] } |
      n vblex { 1 _ 2[gender=1.gender, number=1.number] };
 AP -> adj { 1 };
