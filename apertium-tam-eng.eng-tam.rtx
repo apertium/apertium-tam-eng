@@ -59,7 +59,7 @@ VP -> vblex adv { 2 _ 1 } |
 VP -> NP vbser { 1 } |
       adv vbser { 1 } ;
 S -> prn vblex { 1 _ 2[gender=1.gender, number=1.number] } |
-     n vblex { 1 _ 2[gender=1.gender, number=1.number] };
+     NP vblex { 1 _ 2[gender=1.gender, number=1.number] };
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Apertium-recursive
