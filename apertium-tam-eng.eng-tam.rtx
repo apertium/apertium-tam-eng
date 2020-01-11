@@ -52,7 +52,9 @@ prn: (if (1.prn_type = itg)
 
 NP -> n { 1 } ;
 NP -> prn { 1 } ;
-VP -> NP vblex { 1 _ 2[gender=1.gender, number=1.number] };
+VP -> vblex NP { 2 _ 1 };
+S -> prn vblex { 1 _ 2[gender=1.gender, number=1.number] } |
+     n vblex { 1 _ 2[gender=1.gender, number=1.number] };
 AP -> adj { 1 };
 
 ! Resources:
