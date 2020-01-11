@@ -120,6 +120,7 @@
       <!-- SECTION: Determiners -->
 
       <e><p><l>ஒரு<s n="det"/><s n="ind"/><s n="sg"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
       <!-- SECTION: Numerals -->
 
@@ -174,7 +175,7 @@
       <e><p><l>திரைப்படம்<s n="n"/></l><r>movie<s n="n"/></r></p></e>
       <e><p><l>தீவு<s n="n"/></l><r>island<s n="n"/></r></p></e>
       <e><p><l>தோட்டம்<s n="n"/></l><r>garden<s n="n"/></r></p></e>
-      <e><p><l>நட்சத்திரங்கள்<s n="n"/></l><r>stars<s n="n"/></r></p></e>
+      <e><p><l>நட்சத்திரம்<s n="n"/></l><r>star<s n="n"/></r></p></e>
       <e><p><l>நதி<s n="n"/></l><r>river<s n="n"/></r></p></e>
       <e><p><l>நாடு<s n="n"/></l><r>country<s n="n"/></r></p></e>
       <e><p><l>நீச்சல்குளம்<s n="n"/></l><r>swimming pool<s n="n"/></r></p></e>
