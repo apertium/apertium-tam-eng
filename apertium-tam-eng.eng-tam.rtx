@@ -24,8 +24,7 @@ vbser: _.tense.person.number;
 det_default: _.det_type;
 det_def: _.det_type.number;
 
-NP: _.number;
-AP: _;
+NP: _.number.gender;
 VP: _;
 S: _;
 
