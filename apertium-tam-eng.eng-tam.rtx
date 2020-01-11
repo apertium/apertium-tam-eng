@@ -27,7 +27,7 @@ det_def: _.det_type.number;
 NP: _;
 AP: _;
 VP: _;
-SP: _;
+S: _;
 
 !!!!!!!!!!!!!!!
 !! TAG-REWRITE RULES
@@ -50,11 +50,11 @@ prn: (if (1.prn_type = itg)
 !! REDUCTION RULES
 !!!!!!!!!!!!!!!
 
-NP -> prn vblex { 1 _ 2[gender=1.gender, number=1.number, person=1.person] } ;
-VP -> vblex adv { 2 _ 1 } ;
+NP -> n { 1 } ;
+NP -> prn { 1 } ;
+VP -> vblex NP {2 _ 1};
+VP -> NP vblex { 1 _ 2[gender=1.gender, number=1.number] };
 AP -> adj { 1 };
-SP -> prn vbser { 1 } |
-      n vbser { 1 } ;
 
 ! Resources:
 ! http://wiki.apertium.org/wiki/Apertium-recursive
