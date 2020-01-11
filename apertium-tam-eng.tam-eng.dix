@@ -104,14 +104,19 @@
 
       <!-- SECTION: Pronouns -->
 
-      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>I<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>he<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>she<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>they<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>நீ<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e><!-- also "these" -->
-		      
+      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>அது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+
+      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+
+      <e><p><l>என்ன<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>யார்<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+       
       <!-- SECTION: Determiners -->
 
       <e><p><l>ஒரு<s n="det"/><s n="ind"/><s n="sg"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
@@ -279,6 +284,8 @@
       <e><p><l>வேகமாக<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
       <e><p><l>முதலில்<s n="adv"/></l><r>first<s n="adv"/></r></p></e>
 
+      <e><p><l>எங்கே<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
+
       <!-- SECTION: Verbs -->
       
       <e><p><l>எறி<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
@@ -288,6 +295,8 @@
 		<e><p><l>தாண்டு<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
 		<e><p><l>செல்<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
 		<e><p><l>விரும்பு<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+
+      <e><p><l>இரு<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
