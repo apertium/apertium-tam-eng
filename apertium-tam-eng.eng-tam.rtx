@@ -51,7 +51,7 @@ prn: (if (1.prn_type = itg)
 
 NP -> %n { 1 } |
       %prn { 1 } ;
-NP -> adj %NP { 1 } ;
+NP -> adj %NP { 1 _ 2 } ;
 NP -> the@det %NP { 2 };
 VP -> vblex { 1[person=$person, gender=$gender, number=$number] };
 VP -> vblex adv { 2[person=$person, gender=$gender, number=$number] _ 1 } |
