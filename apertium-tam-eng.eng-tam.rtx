@@ -54,9 +54,9 @@ NP -> %n { 1 } |
 NP -> adj { 1 } ;
 NP -> the@det %NP { 2 };
 VP -> vblex { 1[person=$person, gender=$gender, number=$number] };
-VP -> vblex adv { 2 _ 1 } |
-      vblex NP { 2 _ 1 };
-S -> vbser {} ;
+VP -> vblex adv { 2[person=$person, gender=$gender, number=$number] _ 1 } |
+      vblex NP { 2[person=$person, gender=$gender, number=$number] _ 1 };
+VP -> vbser {} ;
 S -> NP VP { 1 _ 2[person=1.person, gender=1.gender, number=1.number] };
 
 
