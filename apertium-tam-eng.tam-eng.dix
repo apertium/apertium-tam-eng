@@ -193,7 +193,7 @@
       <e><p><l>கத்தி<s n="n"/></l><r>knife<s n="n"/></r></p></e>
       <e><p><l>கரண்டி<s n="n"/></l><r>spoon<s n="n"/></r></p></e>
       <e><p><l>கருணை<s n="n"/></l><r>grace<s n="n"/></r></p></e>
-      <e><p><l>கரும்புறா<s n="n"/></l><r>turtle dove<s n="n"/></r></p></e>
+      <e><p><l>கரும்புறா<s n="n"/></l><r>turtle<b/>dove<s n="n"/></r></p></e>
       <e><p><l>கலை<s n="n"/></l><r>art<s n="n"/></r></p></e>
       <e><p><l>கவைமுள்<s n="n"/></l><r>fork<s n="n"/></r></p></e>
       <e><p><l>கழிவறை<s n="n"/></l><r>toilet<s n="n"/></r></p></e>
@@ -349,7 +349,7 @@
       <e><p><l>விஞ்ஞானம்<s n="n"/></l><r>science<s n="n"/></r></p></e>
       <e><p><l>விலாங்கு<b/>மீன்<s n="n"/></l><r>eel<s n="n"/></r></p></e>
       <e><p><l>விளக்கு<s n="n"/></l><r>lamp<s n="n"/></r></p></e>
-      <e><p><l>விளையாட்டு வீரர்<s n="n"/></l><r>player<s n="n"/></r></p></e>
+      <e><p><l>விளையாட்டு<b/>வீரர்<s n="n"/></l><r>player<s n="n"/></r></p></e>
       <e><p><l>விளையாட்டு<s n="n"/></l><r>game<s n="n"/></r></p></e>
       <e><p><l>வீடு<s n="n"/></l><r>house<s n="n"/></r></p></e>
       <e><p><l>வெண்பனி<s n="n"/></l><r>snow<s n="n"/></r></p></e>
@@ -395,7 +395,7 @@
       <e><p><l>சரியான<s n="adj"/></l><r>correct<s n="adj"/></r></p></e>
       <e><p><l>சாம்பல்<s n="adj"/></l><r>gray<s n="adj"/></r></p></e>
       <e><p><l>சிகப்பு<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
-      <e><p><l>சில<s n="adj"/></l><r>a few<s n="adj"/></r></p></e>
+      <e><p><l>சில<s n="adj"/></l><r>a<b/>few<s n="adj"/></r></p></e>
       <e><p><l>சிறிதளவான<s n="adj"/></l><r>little<s n="adj"/></r></p></e>
       <e><p><l>சிறிய<s n="adj"/></l><r>small<s n="adj"/></r></p></e>
       <e><p><l>சுத்தமான<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
@@ -443,7 +443,7 @@
       <e><p><l>அவ்விடம்<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>ஆயினும்<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
       <e><p><l>இப்பொழுது<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
-      <e><p><l>இப்பொழுதே<s n="adv"/></l><r>right now<s n="adv"/></r></p></e>
+      <e><p><l>இப்பொழுதே<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
       <e><p><l>இவ்விடம்<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
       <e><p><l>இன்றிரவு<s n="adv"/></l><r>tonight<s n="adv"/></r></p></e>
       <e><p><l>இன்று<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
@@ -462,7 +462,7 @@
       <e><p><l>தொலைவில்<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
       <e><p><l>நன்கு<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
       <e><p><l>நாளை<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
-      <e><p><l>நேற்றிரவு<s n="adv"/></l><r>last night<s n="adv"/></r></p></e>
+      <e><p><l>நேற்றிரவு<s n="adv"/></l><r>last<b/>night<s n="adv"/></r></p></e>
       <e><p><l>நேற்று<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
       <e><p><l>பிறகு<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
       <e><p><l>பெரும்பாலும்<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
