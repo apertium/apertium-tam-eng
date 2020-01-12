@@ -104,19 +104,19 @@
 
       <!-- SECTION: Pronouns -->
 
-      <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>நீ<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>அது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>நீ<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 
-      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
       <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
       <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 
       <e><p><l>என்ன<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l>யார்<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-       
+
       <!-- SECTION: Determiners -->
 
       <e><p><l>ஒரு<s n="det"/><s n="ind"/><s n="sg"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
@@ -148,57 +148,210 @@
       <!-- SECTION: Nouns -->
 
       <e><p><l>அகராதி<s n="n"/></l><r>dictionary<s n="n"/></r></p></e>
+      <e><p><l>அணில்<s n="n"/></l><r>Squirrel<s n="n"/></r></p></e>
       <e><p><l>அத்தை<s n="n"/></l><r>aunt<s n="n"/></r></p></e>
+      <e><p><l>அரசியல்<s n="n"/></l><r>politics<s n="n"/></r></p></e>
+      <e><p><l>அவமானம்<s n="n"/></l><r>hamiliation<s n="n"/></r></p></e>
+      <e><p><l>அவமானம்<s n="n"/></l><r>insult<s n="n"/></r></p></e>
+      <e><p><l>அழுங்கு<s n="n"/></l><r>Ant-eater<s n="n"/></r></p></e>
+      <e><p><l>அறைகலன்<s n="n"/></l><r>furniture<s n="n"/></r></p></e>
+      <e><p><l>அறை<s n="n"/></l><r>room<s n="n"/></r></p></e>
+      <e><p><l>அன்னம்<s n="n"/></l><r>Swan<s n="n"/></r></p></e>
+      <e><p><l>அனகொண்டா<s n="n"/></l><r>Anaconda<s n="n"/></r></p></e>
+      <e><p><l>அனாதை<s n="n"/></l><r>orphan<s n="n"/></r></p></e>
       <e><p><l>ஆசிரியர்<s n="n"/></l><r>teacher<s n="n"/></r></p></e>
+      <e><p><l>ஆட்பிடியன்<s n="n"/></l><r>Alligator<s n="n"/></r></p></e>
       <e><p><l>ஆடலரங்கு<s n="n"/></l><r>theater<s n="n"/></r></p></e>
+      <e><p><l>ஆந்தை<s n="n"/></l><r>Owl<s n="n"/></r></p></e>
+      <e><p><l>ஆமை<s n="n"/></l><r>Turtle<s n="n"/></r></p></e>
+      <e><p><l>ஆன்மா<s n="n"/></l><r>soul<s n="n"/></r></p></e>
       <e><p><l>இசை<s n="n"/></l><r>music<s n="n"/></r></p></e>
+      <e><p><l>இரலை மான்<s n="n"/></l><r>Antelope<s n="n"/></r></p></e>
+      <e><p><l>இறகு<s n="n"/></l><r>Feather<s n="n"/></r></p></e>
+      <e><p><l>உச்சி<s n="n"/></l><r>peak<s n="n"/></r></p></e>
+      <e><p><l>உட்கூரை<s n="n"/></l><r>ceiling<s n="n"/></r></p></e>
+      <e><p><l>உடன்பிறப்பு<s n="n"/></l><r>sibling<s n="n"/></r></p></e>
+      <e><p><l>உடை<s n="n"/></l><r>dress<s n="n"/></r></p></e>
+      <e><p><l>உலகம்<s n="n"/></l><r>world<s n="n"/></r></p></e>
+      <e><p><l>உள்ளாடை<s n="n"/></l><r>underwear<s n="n"/></r></p></e>
+      <e><p><l>ஊனுண்ணி<s n="n"/></l><r>carnivore<s n="n"/></r></p></e>
+      <e><p><l>எருது<s n="n"/></l><r>Ox<s n="n"/></r></p></e>
+      <e><p><l>எலி<s n="n"/></l><r>Mouse<s n="n"/></r></p></e>
+      <e><p><l>எறும்பு<s n="n"/></l><r>Ant<s n="n"/></r></p></e>
       <e><p><l>ஏரி<s n="n"/></l><r>lake<s n="n"/></r></p></e>
+      <e><p><l>ஒட்டகச் சிவிங்கி<s n="n"/></l><r>Giraffe<s n="n"/></r></p></e>
+      <e><p><l>ஒட்டகம்<s n="n"/></l><r>Camel<s n="n"/></r></p></e>
       <e><p><l>கடல்<s n="n"/><s n="sg"/></l><r>sea<s n="n"/></r></p></e>
+      <e><p><l>கடலோரம்<s n="n"/></l><r>coastal<s n="n"/></r></p></e>
       <e><p><l>கடற்கரை<s n="n"/></l><r>beach<s n="n"/></r></p></e>
+      <e><p><l>கடிதம்<s n="n"/></l><r>letter<s n="n"/></r></p></e>
+      <e><p><l>கண்டம்<s n="n"/></l><r>continent<s n="n"/></r></p></e>
+      <e><p><l>கண்ணாடி<s n="n"/></l><r>glass<s n="n"/></r></p></e>
+      <e><p><l>கண்ணீர்<s n="n"/></l><r>tear<s n="n"/></r></p></e>
       <e><p><l>கணக்கு<s n="n"/></l><r>math<s n="n"/></r></p></e>
+      <e><p><l>கத்தரிக்கோல்<s n="n"/></l><r>scissors<s n="n"/></r></p></e>
+      <e><p><l>கத்தி<s n="n"/></l><r>knife<s n="n"/></r></p></e>
+      <e><p><l>கரண்டி<s n="n"/></l><r>spoon<s n="n"/></r></p></e>
+      <e><p><l>கருணை<s n="n"/></l><r>grace<s n="n"/></r></p></e>
+      <e><p><l>கரும்புறா<s n="n"/></l><r>Turtle Dove<s n="n"/></r></p></e>
       <e><p><l>கலை<s n="n"/></l><r>art<s n="n"/></r></p></e>
+      <e><p><l>கவைமுள்<s n="n"/></l><r>fork<s n="n"/></r></p></e>
+      <e><p><l>கழிவறை<s n="n"/></l><r>toilet<s n="n"/></r></p></e>
+      <e><p><l>கழுகு<s n="n"/></l><r>Eagle<s n="n"/></r></p></e>
+      <e><p><l>கழுதை<s n="n"/></l><r>Donkey<s n="n"/></r></p></e>
+      <e><p><l>கழுவான்<s n="n"/></l><r>shampoo<s n="n"/></r></p></e>
+      <e><p><l>காகம்<s n="n"/></l><r>Crow<s n="n"/></r></p></e>
+      <e><p><l>காகிதம்<s n="n"/></l><r>paper<s n="n"/></r></p></e>
+      <e><p><l>காண்டாமிருகம்<s n="n"/></l><r>Rhinoceros<s n="n"/></r></p></e>
       <e><p><l>காரியாலயம்<s n="n"/></l><r>office<s n="n"/></r></p></e>
+      <e><p><l>கால்சட்டை<s n="n"/></l><r>pants<s n="n"/></r></p></e>
       <e><p><l>கால்பந்தாட்டம்<s n="n"/></l><r>soccer<s n="n"/></r></p></e>
       <e><p><l>கால்பந்து<s n="n"/></l><r>football<s n="n"/></r></p></e>
+      <e><p><l>காலணி<s n="n"/></l><r>shoes<s n="n"/></r></p></e>
+      <e><p><l>காலுறைகள்<s n="n"/></l><r>socks<s n="n"/></r></p></e>
+      <e><p><l>கிளி<s n="n"/></l><r>Parrot<s n="n"/></r></p></e>
+      <e><p><l>கின்னம்<s n="n"/></l><r>cup<s n="n"/></r></p></e>
+      <e><p><l>கீரி<s n="n"/></l><r>Mongoose<s n="n"/></r></p></e>
+      <e><p><l>குடியரசுத்தலைவர்<s n="n"/></l><r>president<s n="n"/></r></p></e>
+      <e><p><l>குடை<s n="n"/></l><r>umbrella<s n="n"/></r></p></e>
+      <e><p><l>குரங்கு<s n="n"/></l><r>Monkey<s n="n"/></r></p></e>
+      <e><p><l>குருவி<s n="n"/></l><r>Sparrow<s n="n"/></r></p></e>
       <e><p><l>குழந்தை<s n="n"/></l><r>baby<s n="n"/></r></p></e>
+      <e><p><l>குளியலறை<s n="n"/></l><r>bathroom<s n="n"/></r></p></e>
+      <e><p><l>குறிப்பேடு<s n="n"/></l><r>notebook<s n="n"/></r></p></e>
+      <e><p><l>கூரை<s n="n"/></l><r>roof<s n="n"/></r></p></e>
+      <e><p><l>கொக்கு<s n="n"/></l><r>Crane<s n="n"/></r></p></e>
+      <e><p><l>கொசு<s n="n"/></l><r>mosquito<s n="n"/></r></p></e>
+      <e><p><l>கோபம்<s n="n"/></l><r>anger<s n="n"/></r></p></e>
+      <e><p><l>கோழி<s n="n"/></l><r>Hen<s n="n"/></r></p></e>
       <e><p><l>சகோதரன்<s n="n"/></l><r>brother<s n="n"/></r></p></e>
+      <e><p><l>சட்டை<s n="n"/></l><r>shirt<s n="n"/></r></p></e>
+      <e><p><l>சண்டை<s n="n"/></l><r>spat<s n="n"/></r></p></e>
+      <e><p><l>சமயலறை<s n="n"/></l><r>kitchen<s n="n"/></r></p></e>
+      <e><p><l>சமவெளி <s n="n"/></l><r>plains<s n="n"/></r></p></e>
+      <e><p><l>சமாதானம்<s n="n"/></l><r>peace<s n="n"/></r></p></e>
       <e><p><l>சமுத்திரம்<s n="n"/></l><r>ocean<s n="n"/></r></p></e>
       <e><p><l>சரித்திரம்<s n="n"/></l><r>history<s n="n"/></r></p></e>
+      <e><p><l>சன்னல்<s n="n"/></l><r>window<s n="n"/></r></p></e>
+      <e><p><l>சிங்கம்<s n="n"/></l><r>Lion<s n="n"/></r></p></e>
       <e><p><l>சித்தப்பா<s n="n"/></l><r>uncle<s n="n"/></r></p></e>
+      <e><p><l>சிலந்தி<s n="n"/></l><r>Spider<s n="n"/></r></p></e>
       <e><p><l>சிற்றுண்டிசாலை<s n="n"/></l><r>cafe<s n="n"/></r></p></e>
+      <e><p><l>சிற்றுண்டிசாலை<s n="n"/></l><r>restaurant<s n="n"/></r></p></e>
       <e><p><l>சிறப்பங்காடி<s n="n"/></l><r>supermarket<s n="n"/></r></p></e>
+      <e><p><l>சிறியசட்டை<s n="n"/></l><r>jacket<s n="n"/></r></p></e>
+      <e><p><l>சீற்றம்<s n="n"/></l><r>furious<s n="n"/></r></p></e>
+      <e><p><l>சுவர்<s n="n"/></l><r>wall<s n="n"/></r></p></e>
+      <e><p><l>செய்தித்தாள்<s n="n"/></l><r>newspaper<s n="n"/></r></p></e>
+      <e><p><l>சேவல்<s n="n"/></l><r>Cock<s n="n"/></r></p></e>
+      <e><p><l>தட்டு<s n="n"/></l><r>plate<s n="n"/></r></p></e>
       <e><p><l>தந்தை<s n="n"/></l><r>father<s n="n"/></r></p></e>
       <e><p><l>தபால்காரர்<s n="n"/></l><r>postman<s n="n"/></r></p></e>
+      <e><p><l>தரை<s n="n"/></l><r>floor<s n="n"/></r></p></e>
+      <e><p><l>தலைநகர்<s n="n"/></l><r>capital<s n="n"/></r></p></e>
       <e><p><l>தாத்தா<s n="n"/></l><r>grandfather<s n="n"/></r></p></e>
       <e><p><l>தாதி<s n="n"/></l><r>nurse<s n="n"/></r></p></e>
       <e><p><l>தாய்<s n="n"/></l><r>mother<s n="n"/></r></p></e>
       <e><p><l>திரைப்படம்<s n="n"/></l><r>movie<s n="n"/></r></p></e>
+      <e><p><l>தீக்கோழி<s n="n"/></l><r>Ostrich<s n="n"/></r></p></e>
+      <e><p><l>தீபகற்பம்<s n="n"/></l><r>peninsula<s n="n"/></r></p></e>
       <e><p><l>தீவு<s n="n"/></l><r>island<s n="n"/></r></p></e>
+      <e><p><l>தீவு<s n="n"/></l><r>island<s n="n"/></r></p></e>
+      <e><p><l>துண்டு<s n="n"/></l><r>towel<s n="n"/></r></p></e>
+      <e><p><l>துணிகள்<s n="n"/></l><r>clothes<s n="n"/></r></p></e>
+      <e><p><l>துணைக்கண்டம்<s n="n"/></l><r>subcontinent<s n="n"/></r></p></e>
+      <e><p><l>தூண்கள்<s n="n"/></l><r>pillars<s n="n"/></r></p></e>
+      <e><p><l>தொடர்ச்சி<s n="n"/></l><r>continue<s n="n"/></r></p></e>
+      <e><p><l>தொப்பி<s n="n"/></l><r>hat<s n="n"/></r></p></e>
+      <e><p><l>தொலைபேசி<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
       <e><p><l>தோட்டம்<s n="n"/></l><r>garden<s n="n"/></r></p></e>
       <e><p><l>நட்சத்திரம்<s n="n"/></l><r>star<s n="n"/></r></p></e>
+      <e><p><l>நண்டு<s n="n"/></l><r>Crab<s n="n"/></r></p></e>
+      <e><p><l>நத்தை<s n="n"/></l><r>Snail<s n="n"/></r></p></e>
       <e><p><l>நதி<s n="n"/></l><r>river<s n="n"/></r></p></e>
+      <e><p><l>நரி<s n="n"/></l><r>Fox<s n="n"/></r></p></e>
       <e><p><l>நாடு<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e><p><l>நாடு<s n="n"/></l><r>country<s n="n"/></r></p></e>
+      <e><p><l>நாய்<s n="n"/></l><r>Dog<s n="n"/></r></p></e>
+      <e><p><l>நாற்காலி<s n="n"/></l><r>chair<s n="n"/></r></p></e>
+      <e><p><l>நிர்வாகம்<s n="n"/></l><r>administration<s n="n"/></r></p></e>
       <e><p><l>நீச்சல்குளம்<s n="n"/></l><r>swimming pool<s n="n"/></r></p></e>
       <e><p><l>நூல் நிலையம்<s n="n"/></l><r>library<s n="n"/></r></p></e>
+      <e><p><l>நெருப்புக்கோழி<s n="n"/></l><r>Ostrich<s n="n"/></r></p></e>
+      <e><p><l>பச்சோந்தி<s n="n"/></l><r>Chameleon<s n="n"/></r></p></e>
+      <e><p><l>பசி<s n="n"/></l><r>hungry<s n="n"/></r></p></e>
+      <e><p><l>பசி<s n="n"/></l><r>hungry<s n="n"/></r></p></e>
+      <e><p><l>பசு<s n="n"/></l><r>Cow<s n="n"/></r></p></e>
+      <e><p><l>படம்<s n="n"/></l><r>picture<s n="n"/></r></p></e>
+      <e><p><l>படுக்கை<s n="n"/></l><r>bed<s n="n"/></r></p></e>
+      <e><p><l>பணப்பை<s n="n"/></l><r>wallet<s n="n"/></r></p></e>
+      <e><p><l>பயணம்<s n="n"/></l><r>journey<s n="n"/></r></p></e>
+      <e><p><l>பல்லி<s n="n"/></l><r>Lizard<s n="n"/></r></p></e>
+      <e><p><l>பன்றி<s n="n"/></l><r>Pig<s n="n"/></r></p></e>
+      <e><p><l>பனிக் கரடி<s n="n"/></l><r>Polar Bear<s n="n"/></r></p></e>
       <e><p><l>பனிக்கட்டி<s n="n"/></l><r>ice<s n="n"/></r></p></e>
       <e><p><l>பாட்டி<s n="n"/></l><r>grandmother<s n="n"/></r></p></e>
+      <e><p><l>பாம்பு<s n="n"/></l><r>Snake<s n="n"/></r></p></e>
+      <e><p><l>பார்வை<s n="n"/></l><r>vision<s n="n"/></r></p></e>
+      <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oases<s n="n"/></r></p></e>
       <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
+      <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
+      <e><p><l>பிரதேசங்கள்<s n="n"/></l><r>territories<s n="n"/></r></p></e>
       <e><p><l>புத்தகம்<s n="n"/></l><r>book<s n="n"/></r></p></e>
+      <e><p><l>புரவலர்<s n="n"/></l><r>patron<s n="n"/></r></p></e>
+      <e><p><l>புலி<s n="n"/></l><r>Tiger<s n="n"/></r></p></e>
+      <e><p><l>புவியியல்<s n="n"/></l><r>geography<s n="n"/></r></p></e>
+      <e><p><l>புறா<s n="n"/></l><r>Dove<s n="n"/></r></p></e>
+      <e><p><l>புறா<s n="n"/></l><r>Pigeon<s n="n"/></r></p></e>
+      <e><p><l>புனுகுப்பூனை<s n="n"/></l><r>Civet<s n="n"/></r></p></e>
       <e><p><l>பூகோளம்<s n="n"/></l><r>geography<s n="n"/></r></p></e>
+      <e><p><l>பூமி<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+      <e><p><l>பூனை<s n="n"/></l><r>Cat<s n="n"/></r></p></e>
       <e><p><l>பெண்<s n="n"/></l><r>girl<s n="n"/></r></p></e>
       <e><p><l>பெரியப்பா<s n="n"/></l><r>uncle<s n="n"/></r></p></e>
+      <e><p><l>பென்சில்<s n="n"/></l><r>pencil<s n="n"/></r></p></e>
       <e><p><l>பேராசிரியர்<s n="n"/></l><r>professor<s n="n"/></r></p></e>
+      <e><p><l>பேனா<s n="n"/></l><r>pen<s n="n"/></r></p></e>
       <e><p><l>பையன்<s n="n"/></l><r>boy<s n="n"/></r></p></e>
+      <e><p><l>மக்கள் தொகை<s n="n"/></l><r>population<s n="n"/></r></p></e>
+      <e><p><l>மக்கள்<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>மகள்<s n="n"/></l><r>daughter<s n="n"/></r></p></e>
       <e><p><l>மகன்<s n="n"/></l><r>son<s n="n"/></r></p></e>
       <e><p><l>மண்<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+      <e><p><l>மணல்குன்று<s n="n"/></l><r>sand dules<s n="n"/></r></p></e>
+      <e><p><l>மயில்<s n="n"/></l><r>Peacock<s n="n"/></r></p></e>
+      <e><p><l>மரங்கொத்தி<s n="n"/></l><r>Woodpecker<s n="n"/></r></p></e>
+      <e><p><l>மருந்தகம்<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
+      <e><p><l>மலர்<s n="n"/></l><r>flower<s n="n"/></r></p></e>
+      <e><p><l>மலைத்தொடர்கள்<s n="n"/></l><r>ghats<s n="n"/></r></p></e>
+      <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மழை<s n="n"/><s n="sg"/></l><r>rain<s n="n"/></r></p></e>
       <e><p><l>மனைவி<s n="n"/></l><r>wife<s n="n"/></r></p></e>
       <e><p><l>மாமா<s n="n"/></l><r>uncle<s n="n"/></r></p></e>
+      <e><p><l>மான்<s n="n"/></l><r>Deer<s n="n"/></r></p></e>
+      <e><p><l>மீன்<s n="n"/></l><r>Fish<s n="n"/></r></p></e>
+      <e><p><l>முதலை<s n="n"/></l><r>Crocodile<s n="n"/></r></p></e>
+      <e><p><l>முயல்<s n="n"/></l><r>Rabbit<s n="n"/></r></p></e>
+      <e><p><l>முயலெலி<s n="n"/></l><r>Chinchilla<s n="n"/></r></p></e>
+      <e><p><l>மேசை<s n="n"/></l><r>desk<s n="n"/></r></p></e>
+      <e><p><l>மேசை<s n="n"/></l><r>table<s n="n"/></r></p></e>
+      <e><p><l>மேற்சட்டை<s n="n"/></l><r>coat<s n="n"/></r></p></e>
+      <e><p><l>மைனா<s n="n"/></l><r>Mynah<s n="n"/></r></p></e>
+      <e><p><l>மை<s n="n"/></l><r>ink<s n="n"/></r></p></e>
+      <e><p><l>மொட்டு<s n="n"/></l><r>bud<s n="n"/></r></p></e>
+      <e><p><l>மொழி<s n="n"/></l><r>language<s n="n"/></r></p></e>
+      <e><p><l>யானை<s n="n"/></l><r>Elephant<s n="n"/></r></p></e>
       <e><p><l>வங்கி<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>வரிக்குதிரை<s n="n"/></l><r>Zebra<s n="n"/></r></p></e>
+      <e><p><l>வரிசை<s n="n"/></l><r>row<s n="n"/></r></p></e>
+      <e><p><l>வரைபடம்<s n="n"/></l><r>map<s n="n"/></r></p></e>
+      <e><p><l>வாத்து<s n="n"/></l><r>Duck<s n="n"/></r></p></e>
+      <e><p><l>வான்கோழி<s n="n"/></l><r>Turkey<s n="n"/></r></p></e>
       <e><p><l>வானம்<s n="n"/><s n="sg"/></l><r>sky<s n="n"/></r></p></e>
       <e><p><l>விஞ்ஞானம்<s n="n"/></l><r>science<s n="n"/></r></p></e>
+      <e><p><l>விலாங்கு மீன்<s n="n"/></l><r>Eel<s n="n"/></r></p></e>
+      <e><p><l>விளக்கு<s n="n"/></l><r>lamp<s n="n"/></r></p></e>
       <e><p><l>விளையாட்டு வீரர்<s n="n"/></l><r>player<s n="n"/></r></p></e>
       <e><p><l>விளையாட்டு<s n="n"/></l><r>game<s n="n"/></r></p></e>
       <e><p><l>வீடு<s n="n"/></l><r>house<s n="n"/></r></p></e>
@@ -282,8 +435,50 @@
       <e><p><l>வேகமான<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
       
       <!-- SECTION: Adverbs -->
-      <e><p><l>வேகமாக<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+      
+      <e><p><l>அடிக்கடி<s n="adv"/></l><r>frequently<s n="adv"/></r></p></e>
+      <e><p><l>அண்மையில்<s n="adv"/></l><r>recently<s n="adv"/></r></p></e>
+      <e><p><l>அநேகமாக<s n="adv"/></l><r>almost<s n="adv"/></r></p></e>
+      <e><p><l>அப்பொழுது<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+      <e><p><l>அபூர்வமாக<s n="adv"/></l><r>hardly<s n="adv"/></r></p></e>
+      <e><p><l>அபூர்வமாய்<s n="adv"/></l><r>seldom<s n="adv"/></r></p></e>
+      <e><p><l>அரிதாய்<s n="adv"/></l><r>rarely<s n="adv"/></r></p></e>
+      <e><p><l>அவ்விடம்<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
+      <e><p><l>ஆயினும்<s n="adv"/></l><r>yet<s n="adv"/></r></p></e>
+      <e><p><l>இப்பொழுது<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+      <e><p><l>இப்பொழுதே<s n="adv"/></l><r>right now<s n="adv"/></r></p></e>
+      <e><p><l>இவ்விடம்<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+      <e><p><l>இன்றிரவு<s n="adv"/></l><r>tonight<s n="adv"/></r></p></e>
+      <e><p><l>இன்று<s n="adv"/></l><r>today<s n="adv"/></r></p></e>
+      <e><p><l>இன்னும்<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
+      <e><p><l>உடனடியாய்<s n="adv"/></l><r>immediately<s n="adv"/></r></p></e>
+      <e><p><l>உண்மையாக<s n="adv"/></l><r>really<s n="adv"/></r></p></e>
+      <e><p><l>எங்குமின்றி<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
+      <e><p><l>எப்பொழுதாவது<s n="adv"/></l><r>occasionally<s n="adv"/></r></p></e>
+      <e><p><l>எப்பொழுதும்<s n="adv"/></l><r>always<s n="adv"/></r></p></e>
+      <e><p><l>ஏற்கெனவே<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+      <e><p><l>ஒன்றாய்<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+      <e><p><l>கடினமாக<s n="adv"/></l><r>hard<s n="adv"/></r></p></e>
+      <e><p><l>கவனமாக<s n="adv"/></l><r>carefully<s n="adv"/></r></p></e>
+      <e><p><l>சில சமயம்<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+      <e><p><l>தன்னந்தனியாக<s n="adv"/></l><r>alone<s n="adv"/></r></p></e>
+      <e><p><l>தொலைவில்<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
+      <e><p><l>நன்கு<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
+      <e><p><l>நாளை<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+      <e><p><l>நேற்றிரவு<s n="adv"/></l><r>last night<s n="adv"/></r></p></e>
+      <e><p><l>நேற்று<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+      <e><p><l>பிறகு<s n="adv"/></l><r>later<s n="adv"/></r></p></e>
+      <e><p><l>பெரும்பாலும்<s n="adv"/></l><r>mostly<s n="adv"/></r></p></e>
       <e><p><l>முதலில்<s n="adv"/></l><r>first<s n="adv"/></r></p></e>
+      <e><p><l>முற்றிலும்<s n="adv"/></l><r>quite<s n="adv"/></r></p></e>
+      <e><p><l>முற்றிலுமாக<s n="adv"/></l><r>absolutely<s n="adv"/></r></p></e>
+      <e><p><l>முன்னர்<s n="adv"/></l><r>ago<s n="adv"/></r></p></e>
+      <e><p><l>மெதுவாக<s n="adv"/></l><r>slowly<s n="adv"/></r></p></e>
+      <e><p><l>வழக்கமாக<s n="adv"/></l><r>usually<s n="adv"/></r></p></e>
+      <e><p><l>விரைவில்<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+      <e><p><l>வெளியே<s n="adv"/></l><r>out<s n="adv"/></r></p></e>
+      <e><p><l>வேகமாக<s n="adv"/></l><r>fast<s n="adv"/></r></p></e>
+      <e><p><l>வேகமாக<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
 
       <e><p><l>எங்கே<s n="adv"/><s n="itg"/></l><r>where<s n="adv"/><s n="itg"/></r></p></e>
 
