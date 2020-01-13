@@ -206,8 +206,8 @@
       <e><p><l>கால்சட்டை<s n="n"/></l><r>pants<s n="n"/></r></p></e>
       <e><p><l>கால்பந்தாட்டம்<s n="n"/></l><r>soccer<s n="n"/></r></p></e>
       <e><p><l>கால்பந்து<s n="n"/></l><r>football<s n="n"/></r></p></e>
-      <e><p><l>காலணி<s n="n"/></l><r>shoes<s n="n"/></r></p></e>
-      <e><p><l>காலுறைகள்<s n="n"/></l><r>socks<s n="n"/></r></p></e>
+      <e><p><l>காலணி<s n="n"/></l><r>shoe<s n="n"/></r></p></e>
+      <e><p><l>காலுறை<s n="n"/></l><r>sock<s n="n"/></r></p></e>
       <e><p><l>கிளி<s n="n"/></l><r>parrot<s n="n"/></r></p></e>
       <e><p><l>கிண்ணம்<s n="n"/></l><r>cup<s n="n"/></r></p></e>
       <e><p><l>கீரி<s n="n"/></l><r>mongoose<s n="n"/></r></p></e>
@@ -227,7 +227,7 @@
       <e><p><l>சட்டை<s n="n"/></l><r>shirt<s n="n"/></r></p></e>
       <e><p><l>சண்டை<s n="n"/></l><r>spat<s n="n"/></r></p></e>
       <e><p><l>சமயலறை<s n="n"/></l><r>kitchen<s n="n"/></r></p></e>
-      <e><p><l>சமவெளி <s n="n"/></l><r>plains<s n="n"/></r></p></e>
+      <e><p><l>சமவெளி <s n="n"/></l><r>plain<s n="n"/></r></p></e>
       <e><p><l>சமாதானம்<s n="n"/></l><r>peace<s n="n"/></r></p></e>
       <e><p><l>சமுத்திரம்<s n="n"/></l><r>ocean<s n="n"/></r></p></e>
       <e><p><l>சரித்திரம்<s n="n"/></l><r>history<s n="n"/></r></p></e>
@@ -239,7 +239,6 @@
       <e><p><l>சிற்றுண்டிசாலை<s n="n"/></l><r>restaurant<s n="n"/></r></p></e>
       <e><p><l>சிறப்பங்காடி<s n="n"/></l><r>supermarket<s n="n"/></r></p></e>
       <e><p><l>சிறியசட்டை<s n="n"/></l><r>jacket<s n="n"/></r></p></e>
-      <e><p><l>சீற்றம்<s n="n"/></l><r>furious<s n="n"/></r></p></e>
       <e><p><l>சுவர்<s n="n"/></l><r>wall<s n="n"/></r></p></e>
       <e><p><l>செய்தித்தாள்<s n="n"/></l><r>newspaper<s n="n"/></r></p></e>
       <e><p><l>சேவல்<s n="n"/></l><r>cock<s n="n"/></r></p></e>
@@ -256,10 +255,10 @@
       <e><p><l>தீபகற்பம்<s n="n"/></l><r>peninsula<s n="n"/></r></p></e>
       <e><p><l>தீவு<s n="n"/></l><r>island<s n="n"/></r></p></e>
       <e><p><l>துண்டு<s n="n"/></l><r>towel<s n="n"/></r></p></e>
-      <e><p><l>துணிகள்<s n="n"/></l><r>clothes<s n="n"/></r></p></e>
+      <e><p><l>துணி<s n="n"/></l><r>cloth<s n="n"/></r></p></e>
       <e><p><l>துணைக்கண்டம்<s n="n"/></l><r>subcontinent<s n="n"/></r></p></e>
       <e><p><l>தூண்<s n="n"/></l><r>pillar<s n="n"/></r></p></e>
-      <e><p><l>தொடர்ச்சி<s n="n"/></l><r>continue<s n="n"/></r></p></e>
+      <e><p><l>தொடர்ச்சி<s n="n"/></l><r>continuity<s n="n"/></r></p></e>
       <e><p><l>தொப்பி<s n="n"/></l><r>hat<s n="n"/></r></p></e>
       <e><p><l>தொலைபேசி<s n="n"/></l><r>telephone<s n="n"/></r></p></e>
       <e><p><l>தோட்டம்<s n="n"/></l><r>garden<s n="n"/></r></p></e>
@@ -289,7 +288,7 @@
       <e><p><l>பாட்டி<s n="n"/></l><r>grandmother<s n="n"/></r></p></e>
       <e><p><l>பாம்பு<s n="n"/></l><r>snake<s n="n"/></r></p></e>
       <e><p><l>பார்வை<s n="n"/></l><r>vision<s n="n"/></r></p></e>
-      <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oases<s n="n"/></r></p></e>
+      <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oasis<s n="n"/></r></p></e>
       <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
       <e><p><l>பிரதேசங்கள்<s n="n"/></l><r>territories<s n="n"/></r></p></e>
       <e><p><l>புத்தகம்<s n="n"/></l><r>book<s n="n"/></r></p></e>
@@ -396,6 +395,7 @@
       <e><p><l>சில<s n="adj"/></l><r>a<b/>few<s n="adj"/></r></p></e>
       <e><p><l>சிறிதளவான<s n="adj"/></l><r>little<s n="adj"/></r></p></e>
       <e><p><l>சிறிய<s n="adj"/></l><r>small<s n="adj"/></r></p></e>
+      <e><p><l>சீற்றமான<s n="n"/></l><r>furious<s n="n"/></r></p></e>
       <e><p><l>சுத்தமான<s n="adj"/></l><r>clean<s n="adj"/></r></p></e>
       <e><p><l>செம்மஞ்சள்<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
       <e><p><l>தடியான<s n="adj"/></l><r>thick<s n="adj"/></r></p></e>
