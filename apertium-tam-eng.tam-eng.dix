@@ -182,7 +182,6 @@
       <e><p><l>ஒட்டகச்<b/>சிவிங்கி<s n="n"/></l><r>giraffe<s n="n"/></r></p></e>
       <e><p><l>ஒட்டகம்<s n="n"/></l><r>camel<s n="n"/></r></p></e>
       <e><p><l>கடல்<s n="n"/><s n="sg"/></l><r>sea<s n="n"/></r></p></e>
-      <e><p><l>கடலோரம்<s n="n"/></l><r>coastal<s n="n"/></r></p></e>
       <e><p><l>கடற்கரை<s n="n"/></l><r>beach<s n="n"/></r></p></e>
       <e><p><l>கடிதம்<s n="n"/></l><r>letter<s n="n"/></r></p></e>
       <e><p><l>கண்டம்<s n="n"/></l><r>continent<s n="n"/></r></p></e>
@@ -210,7 +209,7 @@
       <e><p><l>காலணி<s n="n"/></l><r>shoes<s n="n"/></r></p></e>
       <e><p><l>காலுறைகள்<s n="n"/></l><r>socks<s n="n"/></r></p></e>
       <e><p><l>கிளி<s n="n"/></l><r>parrot<s n="n"/></r></p></e>
-      <e><p><l>கின்னம்<s n="n"/></l><r>cup<s n="n"/></r></p></e>
+      <e><p><l>கிண்ணம்<s n="n"/></l><r>cup<s n="n"/></r></p></e>
       <e><p><l>கீரி<s n="n"/></l><r>mongoose<s n="n"/></r></p></e>
       <e><p><l>குடியரசுத்தலைவர்<s n="n"/></l><r>president<s n="n"/></r></p></e>
       <e><p><l>குடை<s n="n"/></l><r>umbrella<s n="n"/></r></p></e>
@@ -292,7 +291,6 @@
       <e><p><l>பார்வை<s n="n"/></l><r>vision<s n="n"/></r></p></e>
       <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oases<s n="n"/></r></p></e>
       <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
-      <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
       <e><p><l>பிரதேசங்கள்<s n="n"/></l><r>territories<s n="n"/></r></p></e>
       <e><p><l>புத்தகம்<s n="n"/></l><r>book<s n="n"/></r></p></e>
       <e><p><l>புரவலர்<s n="n"/></l><r>patron<s n="n"/></r></p></e>
@@ -321,7 +319,6 @@
       <e><p><l>மருந்தகம்<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
       <e><p><l>மலர்<s n="n"/></l><r>flower<s n="n"/></r></p></e>
       <e><p><l>மலைத்தொடர்கள்<s n="n"/></l><r>ghats<s n="n"/></r></p></e>
-      <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மழை<s n="n"/><s n="sg"/></l><r>rain<s n="n"/></r></p></e>
       <e><p><l>மனைவி<s n="n"/></l><r>wife<s n="n"/></r></p></e>
@@ -375,6 +372,7 @@
       <e><p><l>ஒல்லியான<s n="adj"/></l><r>thin<s n="adj"/></r></p></e>
       <e><p><l>ஓரிடத்திற்குரிய<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
       <e><p><l>கசப்பான<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
+      <e><p><l>கடலோர<s n="n"/></l><r>coastal<s n="n"/></r></p></e>
       <e><p><l>கடினமான<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
       <e><p><l>கறுப்பு<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
       <e><p><l>கருமையான<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
@@ -482,12 +480,12 @@
       <!-- SECTION: Verbs -->
       
       <e><p><l>எறி<s n="vblex"/></l><r>throw<s n="vblex"/></r></p></e>
-		<e><p><l>எடு<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
-		<e><p><l>கிடை<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
-		<e><p><l>பற<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
-		<e><p><l>தாண்டு<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
-		<e><p><l>செல்<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
-		<e><p><l>விரும்பு<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+      <e><p><l>எடு<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+      <e><p><l>கிடை<s n="vblex"/></l><r>get<s n="vblex"/></r></p></e>
+      <e><p><l>பற<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
+      <e><p><l>தாண்டு<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
+      <e><p><l>செல்<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+      <e><p><l>விரும்பு<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
 
       <e><p><l>இரு<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
 
