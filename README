@@ -47,18 +47,18 @@ If you are in the source directory after running make, the following
 commands should work:
 
 ```console
-$ echo "TODO test sentence 1" | apertium -d . tam-eng
-TODO test translated sentence 1
+$ echo "சோதனை வசனம்" | apertium -d . tam-eng
+test sentence
 
-$ echo "TODO test sentence 2" | apertium -d . eng-tam
-TODO test translated sentence 2
+$ echo "The boy threw fast." | apertium -d . eng-tam
+பையன் வேகமாக எறிந்தான்.
 ```
 
 After installing somewhere in `$PATH`, you should be able to do e.g.
 
 ```console
-$ echo "TODO test sentence 1" | apertium tam-eng
-TODO test translated sentence 1
+$ echo "சோதனை வசனம்" | apertium tam-eng
+test sentence
 ```
 
 Files and data
