@@ -154,6 +154,7 @@
       <e><p><l>அவமானம்<s n="n"/></l><r>humiliation<s n="n"/></r></p></e>
       <e><p><l>அவமானம்<s n="n"/></l><r>insult<s n="n"/></r></p></e>
       <e><p><l>அழுங்கு<s n="n"/></l><r>ant-eater<s n="n"/></r></p></e>
+      <e><p><l>அளவு<s n="n"/></l><r>quantity<s n="adj"/></r></p></e>
       <e><p><l>அறைகலன்<s n="n"/></l><r>furniture<s n="n"/></r></p></e>
       <e><p><l>அறை<s n="n"/></l><r>room<s n="n"/></r></p></e>
       <e><p><l>அன்னம்<s n="n"/></l><r>swan<s n="n"/></r></p></e>
@@ -208,8 +209,8 @@
       <e><p><l>கால்பந்து<s n="n"/></l><r>football<s n="n"/></r></p></e>
       <e><p><l>காலணி<s n="n"/></l><r>shoe<s n="n"/></r></p></e>
       <e><p><l>காலுறை<s n="n"/></l><r>sock<s n="n"/></r></p></e>
-      <e><p><l>கிளி<s n="n"/></l><r>parrot<s n="n"/></r></p></e>
       <e><p><l>கிண்ணம்<s n="n"/></l><r>cup<s n="n"/></r></p></e>
+      <e><p><l>கிளி<s n="n"/></l><r>parrot<s n="n"/></r></p></e>
       <e><p><l>கீரி<s n="n"/></l><r>mongoose<s n="n"/></r></p></e>
       <e><p><l>குடியரசுத்தலைவர்<s n="n"/></l><r>president<s n="n"/></r></p></e>
       <e><p><l>குடை<s n="n"/></l><r>umbrella<s n="n"/></r></p></e>
@@ -274,6 +275,7 @@
       <e><p><l>நீச்சல்குளம்<s n="n"/></l><r>swimming<b/>pool<s n="n"/></r></p></e>
       <e><p><l>நூல்<b/>நிலையம்<s n="n"/></l><r>library<s n="n"/></r></p></e>
       <e><p><l>நெருப்புக்கோழி<s n="n"/></l><r>ostrich<s n="n"/></r></p></e>
+      <e><p><l>பகுதி<s n="n"/></l><r>part<s n="n"/></r></p></e>
       <e><p><l>பச்சோந்தி<s n="n"/></l><r>chameleon<s n="n"/></r></p></e>
       <e><p><l>பசி<s n="n"/></l><r>hungry<s n="n"/></r></p></e>
       <e><p><l>பசு<s n="n"/></l><r>cow<s n="n"/></r></p></e>
@@ -290,7 +292,7 @@
       <e><p><l>பார்வை<s n="n"/></l><r>vision<s n="n"/></r></p></e>
       <e><p><l>பாலைவனச்சோலை<s n="n"/></l><r>oasis<s n="n"/></r></p></e>
       <e><p><l>பாலைவனம்<s n="n"/></l><r>desert<s n="n"/></r></p></e>
-      <e><p><l>பிரதேசங்கள்<s n="n"/></l><r>territories<s n="n"/></r></p></e>
+      <e><p><l>பிரதேசம்<s n="n"/></l><r>territory<s n="n"/></r></p></e>
       <e><p><l>புத்தகம்<s n="n"/></l><r>book<s n="n"/></r></p></e>
       <e><p><l>புரவலர்<s n="n"/></l><r>patron<s n="n"/></r></p></e>
       <e><p><l>புலி<s n="n"/></l><r>tiger<s n="n"/></r></p></e>
@@ -314,10 +316,10 @@
       <e><p><l>மண்<s n="n"/></l><r>earth<s n="n"/></r></p></e>
       <e><p><l>மணல்குன்று<s n="n"/></l><r>sand<b/>dune<s n="n"/></r></p></e>
       <e><p><l>மயில்<s n="n"/></l><r>peacock<s n="n"/></r></p></e>
-      <e><p><l>மரங்கொத்தி<s n="n"/></l><r>Woodpecker<s n="n"/></r></p></e>
+      <e><p><l>மரங்கொத்தி<s n="n"/></l><r>woodpecker<s n="n"/></r></p></e>
       <e><p><l>மருந்தகம்<s n="n"/></l><r>pharmacy<s n="n"/></r></p></e>
       <e><p><l>மலர்<s n="n"/></l><r>flower<s n="n"/></r></p></e>
-      <e><p><l>மலைத்தொடர்கள்<s n="n"/></l><r>ghats<s n="n"/></r></p></e>
+      <e><p><l>மலைத்தொடர்<s n="n"/></l><r>ghat<s n="n"/></r></p></e>
       <e><p><l>மலை<s n="n"/></l><r>mountain<s n="n"/></r></p></e>
       <e><p><l>மழை<s n="n"/><s n="sg"/></l><r>rain<s n="n"/></r></p></e>
       <e><p><l>மனைவி<s n="n"/></l><r>wife<s n="n"/></r></p></e>
@@ -336,6 +338,7 @@
       <e><p><l>மொழி<s n="n"/></l><r>language<s n="n"/></r></p></e>
       <e><p><l>யானை<s n="n"/></l><r>elephant<s n="n"/></r></p></e>
       <e><p><l>வங்கி<s n="n"/></l><r>bank<s n="n"/></r></p></e>
+      <e><p><l>வடிவம்<s n="adj"/></l><r>shape<s n="adj"/></r></p></e>
       <e><p><l>வரிக்குதிரை<s n="n"/></l><r>zebra<s n="n"/></r></p></e>
       <e><p><l>வரிசை<s n="n"/></l><r>row<s n="n"/></r></p></e>
       <e><p><l>வரைபடம்<s n="n"/></l><r>map<s n="n"/></r></p></e>
@@ -356,7 +359,6 @@
       <e><p><l>அகலமான<s n="adj"/></l><r>wide<s n="adj"/></r></p></e>
       <e><p><l>அமைதியான<s n="adj"/></l><r>quiet<s n="adj"/></r></p></e>
       <e><p><l>அழுக்கான<s n="adj"/></l><r>dirty<s n="adj"/></r></p></e>
-      <e><p><l>அளவுகள்<s n="adj"/></l><r>quantities<s n="adj"/></r></p></e>
       <e><p><l>ஆழமான<s n="adj"/></l><r>deep<s n="adj"/></r></p></e>
       <e><p><l>இலேசான<s n="adj"/></l><r>light<s n="adj"/></r></p></e>
       <e><p><l>இளமையான<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
@@ -371,7 +373,7 @@
       <e><p><l>ஒல்லியான<s n="adj"/></l><r>thin<s n="adj"/></r></p></e>
       <e><p><l>ஓரிடத்திற்குரிய<s n="adj"/></l><r>local<s n="adj"/></r></p></e>
       <e><p><l>கசப்பான<s n="adj"/></l><r>bitter<s n="adj"/></r></p></e>
-      <e><p><l>கடலோர<s n="n"/></l><r>coastal<s n="n"/></r></p></e>
+      <e><p><l>கடலோர<s n="adj"/></l><r>coastal<s n="adj"/></r></p></e>
       <e><p><l>கடினமான<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
       <e><p><l>கறுப்பு<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
       <e><p><l>கருமையான<s n="adj"/></l><r>dark<s n="adj"/></r></p></e>
@@ -405,7 +407,6 @@
       <e><p><l>நீல<s n="adj"/></l><r>blue<s n="adj"/></r></p></e>
       <e><p><l>நீளமான<s n="adj"/></l><r>long<s n="adj"/></r></p></e>
       <e><p><l>நேரான<s n="adj"/></l><r>straight<s n="adj"/></r></p></e>
-      <e><p><l>பகுதி<s n="adj"/></l><r>part<s n="adj"/></r></p></e>
       <e><p><l>பச்சை<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
       <e><p><l>பழுப்பு<s n="adj"/></l><r>brown<s n="adj"/></r></p></e>
       <e><p><l>பழைய<s n="adj"/></l><r>old<s n="adj"/></r></p></e>
@@ -422,7 +423,6 @@
       <e><p><l>மெதுவான<s n="adj"/></l><r>slow<s n="adj"/></r></p></e>
       <e><p><l>மோசமான<s n="adj"/></l><r>bad<s n="adj"/></r></p></e>
       <e><p><l>வட்டமான<s n="adj"/></l><r>circular<s n="adj"/></r></p></e>
-      <e><p><l>வடிவங்கள்<s n="adj"/></l><r>shapes<s n="adj"/></r></p></e>
       <e><p><l>வலுக்குறைந்த<s n="adj"/></l><r>weak<s n="adj"/></r></p></e>
       <e><p><l>விலைமதிப்பான<s n="adj"/></l><r>expensive<s n="adj"/></r></p></e>
       <e><p><l>வெள்ளை<s n="adj"/></l><r>white<s n="adj"/></r></p></e>
@@ -455,7 +455,7 @@
       <e><p><l>ஒன்றாய்<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
       <e><p><l>கடினமாக<s n="adv"/></l><r>hard<s n="adv"/></r></p></e>
       <e><p><l>கவனமாக<s n="adv"/></l><r>carefully<s n="adv"/></r></p></e>
-      <e><p><l>சில சமயம்<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
+      <e><p><l>சில<b/>சமயம்<s n="adv"/></l><r>sometimes<s n="adv"/></r></p></e>
       <e><p><l>தன்னந்தனியாக<s n="adv"/></l><r>alone<s n="adv"/></r></p></e>
       <e><p><l>தொலைவில்<s n="adv"/></l><r>away<s n="adv"/></r></p></e>
       <e><p><l>நன்கு<s n="adv"/></l><r>well<s n="adv"/></r></p></e>
