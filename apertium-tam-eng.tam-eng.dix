@@ -104,46 +104,46 @@
 
       <!-- SECTION: Pronouns -->
 
-      <e><p><l>அது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>நீ<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
-      <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l><r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>அது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l>                      <r>that<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>இது<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></l>                      <r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>நீ<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></l>            <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>நீங்கள்<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></l>      <r>you<s n="prn"/><s n="pers"/><s n="p2"/><s n="mf"/><s n="pl"/></r></p></e>
 
-      <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
-      <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
-      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>அவன்<s n="prn"/><s n="pers"/><s n="p3"/><s n="m"/><s n="sg"/></l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>அவள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="f"/><s n="sg"/></l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>அவர்கள்<s n="prn"/><s n="pers"/><s n="p3"/><s n="mf"/><s n="pl"/></l>    <r>prpers<s n="prn"/><s n="subj"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>நான்<s n="prn"/><s n="pers"/><s n="p1"/><s n="mf"/><s n="sg"/></l>        <r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
 
-      <e><p><l>என்ன<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l>யார்<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l><r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>என்ன<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l>                   <r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>யார்<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></l>                    <r>who<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
        
       <!-- SECTION: Determiners -->
 
-      <e><p><l>ஒரு<s n="det"/><s n="ind"/><s n="sg"/></l><r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+      <e><p><l>ஒரு<s n="det"/><s n="ind"/><s n="sg"/></l>          <r>a<s n="det"/><s n="ind"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l>                                          <r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
       <!-- SECTION: Numerals -->
 
-      <e><p><l>ஒன்று<s n="num"/></l><r>one<s n="num"/></r></p></e>
-      <e><p><l>இரண்டு<s n="num"/></l><r>two<s n="num"/></r></p></e>
-      <e><p><l>மூன்று<s n="num"/></l><r>three<s n="num"/></r></p></e>
-      <e><p><l>நான்கு<s n="num"/></l><r>four<s n="num"/></r></p></e>
-      <e><p><l>ஐந்து<s n="num"/></l><r>five<s n="num"/></r></p></e>
-      <e><p><l>ஆறு<s n="num"/></l><r>six<s n="num"/></r></p></e>
-      <e><p><l>ஏழு<s n="num"/></l><r>seven<s n="num"/></r></p></e>
-      <e><p><l>எட்டு<s n="num"/></l><r>eight<s n="num"/></r></p></e>
-      <e><p><l>ஒன்பது<s n="num"/></l><r>nine<s n="num"/></r></p></e>
-      <e><p><l>பத்து<s n="num"/></l><r>ten<s n="num"/></r></p></e>
-      <e><p><l>பதினொன்று<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
-      <e><p><l>பன்னிரண்டு<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
-      <e><p><l>பதின்மூன்று<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
-      <e><p><l>பதினான்கு<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
-      <e><p><l>பதினைந்து<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
-      <e><p><l>பதினாறு<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
-      <e><p><l>பதினேழு<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
-      <e><p><l>பதினெட்டு<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
-      <e><p><l>பத்தொன்பது<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
-      <e><p><l>இருபது<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+      <e><p><l>ஒன்று<s n="num"/></l>                          <r>one<s n="num"/></r></p></e>
+      <e><p><l>இரண்டு<s n="num"/></l>                        <r>two<s n="num"/></r></p></e>
+      <e><p><l>மூன்று<s n="num"/></l>                         <r>three<s n="num"/></r></p></e>
+      <e><p><l>நான்கு<s n="num"/></l>                         <r>four<s n="num"/></r></p></e>
+      <e><p><l>ஐந்து<s n="num"/></l>                           <r>five<s n="num"/></r></p></e>
+      <e><p><l>ஆறு<s n="num"/></l>                           <r>six<s n="num"/></r></p></e>
+      <e><p><l>ஏழு<s n="num"/></l>                            <r>seven<s n="num"/></r></p></e>
+      <e><p><l>எட்டு<s n="num"/></l>                           <r>eight<s n="num"/></r></p></e>
+      <e><p><l>ஒன்பது<s n="num"/></l>                        <r>nine<s n="num"/></r></p></e>
+      <e><p><l>பத்து<s n="num"/></l>                          <r>ten<s n="num"/></r></p></e>
+      <e><p><l>பதினொன்று<s n="num"/></l>                  <r>eleven<s n="num"/></r></p></e>
+      <e><p><l>பன்னிரண்டு<s n="num"/></l>                  <r>twelve<s n="num"/></r></p></e>
+      <e><p><l>பதின்மூன்று<s n="num"/></l>                  <r>thirteen<s n="num"/></r></p></e>
+      <e><p><l>பதினான்கு<s n="num"/></l>                   <r>fourteen<s n="num"/></r></p></e>
+      <e><p><l>பதினைந்து<s n="num"/></l>                   <r>fifteen<s n="num"/></r></p></e>
+      <e><p><l>பதினாறு<s n="num"/></l>                     <r>sixteen<s n="num"/></r></p></e>
+      <e><p><l>பதினேழு<s n="num"/></l>                     <r>seventeen<s n="num"/></r></p></e>
+      <e><p><l>பதினெட்டு<s n="num"/></l>                   <r>eighteen<s n="num"/></r></p></e>
+      <e><p><l>பத்தொன்பது<s n="num"/></l>                 <r>nineteen<s n="num"/></r></p></e>
+      <e><p><l>இருபது<s n="num"/></l>                       <r>twenty<s n="num"/></r></p></e>
 
       <!-- SECTION: Nouns -->
 
