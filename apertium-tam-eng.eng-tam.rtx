@@ -61,6 +61,6 @@ S -> NP VP { 1 _ 2[person=1.person, gender=1.gender, number=1.number] };
 
 
 ! Resources:
-! http://wiki.apertium.org/wiki/Apertium-recursive
-! http://wiki.apertium.org/wiki/Apertium-recursive/Formalism
-! http://wiki.apertium.org/wiki/Apertium-recursive/Cookbook
+! https://wiki.apertium.org/wiki/Apertium-recursive
+! https://wiki.apertium.org/wiki/Apertium-recursive/Formalism
+! https://wiki.apertium.org/wiki/Apertium-recursive/Cookbook
