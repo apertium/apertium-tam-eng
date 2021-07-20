@@ -1,0 +1,16 @@
+[0DUCxD10owuT#0] ^,<cm>/,<cm>$
+[/0DUCxD10owuT]
+[9KMXPg-cBCLL#0] ^எப்பொழுதாவது<adv>/occasionally<adv>$
+[/9KMXPg-cBCLL]
+[KVLeNDNyYfWq#0] ^தடியான<adj>/thick<adj>$
+[/KVLeNDNyYfWq]
+[R6z3aEWWM_Q5#0] ^நேரான<adj>/straight<adj>$
+[/R6z3aEWWM_Q5]
+[_8ZEF2gBtIeH#0] ^மெதுவாக<adv>/slowly<adv>$
+[/_8ZEF2gBtIeH]
+[io3oI9XtPhJ0#0] ^?<sent>/?<sent>$
+[/io3oI9XtPhJ0]
+[okI2lQpJNAWU#0] ^மிகுந்த<adj>/much<adj>$
+[/okI2lQpJNAWU]
+[zbTuKuppzGqD#0] ^.<sent>/.<sent>$
+[/zbTuKuppzGqD]

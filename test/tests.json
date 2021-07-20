@@ -1,0 +1,10 @@
+{
+    "eng-tam": {
+        "input": "eng-tam-input.txt",
+        "mode": "eng-tam"
+    },
+    "tam-eng": {
+        "input": "tam-eng-input.txt",
+        "mode": "tam-eng"
+    }
+}
